@@ -35,5 +35,7 @@ To run the project locally:
 5. Update the database connection string in the VBA code if necessary.
 6. Run the application using the provided Excel VBA form.
 
+## Screenshots
+![Stock Tracking System](Ekran görüntüsü 2026-01-31 123414.png)
 
 
