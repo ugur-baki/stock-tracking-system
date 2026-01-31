@@ -14,3 +14,19 @@ It allows users to manage stock items, track stock movements, and store data in 
 - User-friendly Excel VBA form interface
 - Filter and display stock status
 - Export stock data to PDF
+
+## Database Setup
+This project uses Microsoft SQL Server (MSSQL) as its database system.
+
+To run the project locally:
+- Microsoft SQL Server must be installed
+- A database should be created manually
+- Required tables must be created according to the project structure
+- The database connection string in the VBA code must be updated based on the local environment
+
+> Note: The database is not included in this repository. It must be set up separately.
+
+
+
+
+
