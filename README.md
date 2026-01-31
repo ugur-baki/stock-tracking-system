@@ -2,7 +2,15 @@
 This project is a stock tracking system developed using Excel VBA and Microsoft SQL Server (MSSQL).
 It allows users to manage stock items, track stock movements, and store data in a centralized database through a custom Excel form.
 
-## Technologirs Used
+## Technologies Used
 - Excel VBA
 - Microsoft SQL Server (MSSQL)
 - ADO (ActiveX Data Objects)
+
+## Features
+- Add, edit, and delete stock items
+- Track stock in and out operations
+- Store all data in a centralized MSSQL database
+- User-friendly Excel VBA form interface
+- Filter and display stock status
+- Export stock data to PDF
