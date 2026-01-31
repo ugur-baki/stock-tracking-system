@@ -26,7 +26,14 @@ To run the project locally:
 
 > Note: The database is not included in this repository. It must be set up separately.
 
+## How to Run the Project
 
+1. Clone this repository to your local machine.
+2. Open the Excel file containing the VBA project.
+3. Enable macros in Excel.
+4. Set up the MSSQL database as described in the Database Setup section.
+5. Update the database connection string in the VBA code if necessary.
+6. Run the application using the provided Excel VBA form.
 
 
 
